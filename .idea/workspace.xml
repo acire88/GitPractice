@@ -6,4 +6,7 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
 </project>
